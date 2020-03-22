@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://www.globalgiving.org/dy/cart/view/gg.html?cmd=addItem&projid=44686&frequency=ONCE&vo_id=206507&vo=30']
+custom: (GlobalGiving)['https://www.globalgiving.org/dy/cart/view/gg.html?cmd=addItem&projid=44686&frequency=ONCE&vo_id=206507&vo=30']
